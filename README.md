@@ -1,4 +1,4 @@
-#### DAE-project
+#### DAE-project (in progress)
 
 I will use this repository for my learning project from the Data Analytics Essentials course of Cisco Skills For all course.
 
@@ -25,5 +25,28 @@ Two atoms are neighbors if the distance between each other is equal or less than
 Two atoms are neighbors if there is a real chemical bond between them.
 We count a _cluster class_ of size N, if all N atoms are neighbors of the other N-1 atoms in the _cluster class_.
 Each protein with a stable configuration has a count of _cluster classes_.
+Under this representation, two proteins are similar if they have the 
 
 ## Screenshot of the tree
+![zoom](https://github.com/nitramnauj/DAE-project/assets/141964349/f286812e-0782-407e-8294-95d3903f6fd8)
+Here I share you a zoom screenshot of one of my trees.
+This is for a _contact distance_ of 9 Ångström.
+Each node is a protein. Each color is a protein class, as in CATH database.
+The size of the nodes is proportional to the size of the protein.
+
+## Technologies
+
+Java was used for the counting of _cluster classes_, using concurrent computing due the large size of the Protein Database.
+For looking for pairs of similar proteins, I used Python3. Also the graph in the screenshot was generated with using Python3.
+I want use data analysis tools for answer the two questions in this repository.
+
+## Setup
+In the near future, maybe I will share one or two programs for that specific analysis.
+
+## Approach
+Obtaining data:
+Data preparation:
+Testing outcomes:
+
+## Credits
+I will share it soon.
