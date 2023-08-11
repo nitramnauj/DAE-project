@@ -26,5 +26,4 @@ Two atoms are neighbors if there is a real chemical bond between them.
 We count a _cluster class_ of size N, if all N atoms are neighbors of the other N-1 atoms in the _cluster class_.
 Each protein with a stable configuration has a count of _cluster classes_.
 
-
-
+## Screenshot of the tree
