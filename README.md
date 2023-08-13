@@ -3,7 +3,7 @@
 I will use this repository for my learning project from the Data Analytics Essentials course of Cisco Skills For all course.
 
 Currently I have data about size of proteins and different transitions between protein classes.
-I have a tree of the proteins where each branch represents that two proteins are _very_ similar, at least in a representation of their structure.
+I have a tree of the proteins where each branch represents that two proteins are _very_ similar, at least in a certain representation of their structure.
 Maybe in the future I could put online the tree, for everyone to search an specific protein an the proteins that are related with it, following that criteria.
 For now, I have no demo and a lot of the data is private, sorry for not sharing it.
 
