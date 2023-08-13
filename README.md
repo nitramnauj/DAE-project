@@ -25,7 +25,7 @@ Two atoms are neighbors if the distance between each other is equal or less than
 Two atoms are neighbors if there is a real chemical bond between them.
 We count a _cluster class_ of size N, if all N atoms are neighbors of the other N-1 atoms in the _cluster class_.
 Each protein with a stable configuration has a count of _cluster classes_.
-Under this representation, two proteins are similar if they have the 
+Under this representation, two proteins are similar if they have similar count of more or less the same _cluster classes_.
 
 ## Screenshot of the tree
 ![zoom](https://github.com/nitramnauj/DAE-project/assets/141964349/f286812e-0782-407e-8294-95d3903f6fd8)
